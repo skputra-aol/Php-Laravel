@@ -1,5 +1,12 @@
-# Install
+# Install software
 - Php 8.0
 - Laravel 8.4
 - Mysql
 - Redis
+
+# Install source
+- change .env.example to .env
+- run : composer install
+- run : php artisan migrate --seed
+- run : php artisan storage:link   /// if have upload file or img
+- default user - password : admin@admin.com - password
