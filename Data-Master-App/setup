@@ -10,7 +10,7 @@ $ sudo systemctl restart apache2
 $ sudo a2enmod php8.0 
 $ sudo systemctl restart apache2
 
-# Install software
+# Installing software
 - Php 8.0
 - Laravel 8.4
 - Mysql
