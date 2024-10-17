@@ -14,7 +14,7 @@ $ sudo systemctl restart apache2
 - Php 8.0
 - Laravel 8.4
 - Mysql
-- Redis
+- Redis cache
 
 # Install source
 - change .env.example to .env
